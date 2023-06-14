@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="DOTA2",maybe
+https://dyhym3u.tocmcc.cn/huya/211888
+#EXTINF:-1 group-title="DOTA2",Chalice
+https://dyhym3u.tocmcc.cn/huya/340204
+#EXTINF:-1 group-title="DOTA2",fy
+https://dyhym3u.tocmcc.cn/huya/883235
+#EXTINF:-1 group-title="DOTA2",esldota2
+https://dyhym3u.tocmcc.cn/huya/esldota2
+#EXTINF:-1 group-title="DOTA2",xinQ
+https://dyhym3u.tocmcc.cn/huya/128465
+#EXTINF:-1 group-title="DOTA2",yyf
+https://dyhym3u.tocmcc.cn/douyu/9999
+#EXTINF:-1 group-title="DOTA2",谢彬DD
+https://dyhym3u.tocmcc.cn/douyu/110
+#EXTINF:-1 group-title="DOTA2",Zhou陈尧
+https://dyhym3u.tocmcc.cn/douyu/88660
+#EXTINF:-1 tvg-logo="http://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_middle.jpg" group-title="热门游戏",呆妹儿小霸王
+https://dyhym3u.tocmcc.cn/douyu/2947432
+#EXTINF:-1 tvg-logo="http://apic.douyucdn.cn/upload/avatar_v3/202012/6fa5859ec74b4ef19fbc735f0f2abc33_middle.jpg" group-title="DOTA2",刘嘉俊Sylar1
+https://dyhym3u.tocmcc.cn/douyu/762484
+#EXTINF:-1 group-title="DOTA2",叫我老陈就好了
+https://dyhym3u.tocmcc.cn/douyu/74960
