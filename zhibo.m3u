@@ -18,9 +18,9 @@ http://192.168.3.2:35455/douyu/9999
 http://192.168.3.2:35455/douyu/110
 #EXTINF:-1 group-title="DOTA2",Zhou陈尧
 http://192.168.3.2:35455/douyu/88660
-#EXTINF:-1 tvg-logo="http://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_middle.jpg" group-title="热门游戏",呆妹儿小霸王
+#EXTINF:-1 group-title="热门游戏",呆妹儿小霸王
 http://192.168.3.2:35455/douyu/2947432
-#EXTINF:-1 tvg-logo="http://apic.douyucdn.cn/upload/avatar_v3/202012/6fa5859ec74b4ef19fbc735f0f2abc33_middle.jpg" group-title="DOTA2",刘嘉俊Sylar1
+#EXTINF:-1 group-title="DOTA2",刘嘉俊Sylar1
 http://192.168.3.2:35455/douyu/762484
 #EXTINF:-1 group-title="DOTA2",叫我老陈就好了
 http://192.168.3.2:35455/douyu/74960
